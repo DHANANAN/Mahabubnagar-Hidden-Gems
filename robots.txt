@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://example.github.io/Mahabubnagar-Hidden-Gems/sitemap.xml
