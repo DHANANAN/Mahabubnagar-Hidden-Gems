@@ -1,0 +1,67 @@
+{
+  "site": {
+    "name": "Mahabubnagar Hidden Gems",
+    "updated": "2026-02-20"
+  },
+  "places": [
+    {
+      "id": "pillalamarri",
+      "name": "Pillalamarri Banyan Tree",
+      "type": "Nature",
+      "tags": ["heritage", "family", "shade"],
+      "summary": "An iconic giant banyan known for wide prop roots and a calm heritage atmosphere.",
+      "rating": 4.4,
+      "coordinates": { "lat": 16.7432, "lng": 77.9864 },
+      "images": [
+        {
+          "title": "Pillalamarri canopy",
+          "license": "CC BY-SA 4.0",
+          "attribution": "Sample Author",
+          "source": "https://commons.wikimedia.org/"
+        }
+      ]
+    },
+    {
+      "id": "koilkonda-fort",
+      "name": "Koilkonda Fort",
+      "type": "Heritage",
+      "tags": ["trek", "fort", "history"],
+      "summary": "Hill fort remains with panoramic views and steps that make for a rewarding sunrise walk.",
+      "rating": 4.3,
+      "coordinates": { "lat": 16.8777, "lng": 78.2466 },
+      "images": [
+        {
+          "title": "Koilkonda fort trail",
+          "license": "CC BY 2.0",
+          "attribution": "Travel Community Contributor",
+          "source": "https://www.flickr.com/"
+        }
+      ]
+    },
+    {
+      "id": "manyamkonda",
+      "name": "Manyamkonda Temple",
+      "type": "Spiritual",
+      "tags": ["hill", "temple", "viewpoint"],
+      "summary": "A hilltop spiritual destination with cave-like formations and broad valley views.",
+      "rating": 4.6,
+      "images": [
+        {
+          "title": "Manyamkonda hill steps",
+          "license": "CC0",
+          "attribution": "Open archive",
+          "source": "https://pixabay.com/"
+        }
+      ]
+    },
+    {
+      "id": "sri-rangapur",
+      "name": "Sri Ranganayaka Swamy Temple",
+      "type": "Spiritual",
+      "tags": ["architecture", "heritage", "rituals"],
+      "summary": "Historic temple known for traditional architecture and seasonal festivals.",
+      "rating": 4.2,
+      "images": []
+    }
+  ]
+}
