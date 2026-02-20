@@ -1,0 +1,17 @@
+diff --git a/assets/images/og-cover.svg b/assets/images/og-cover.svg
+new file mode 100644
+index 0000000000000000000000000000000000000000..ffb296b4696de480c445c84ca9a52ec6b1d9489a
+--- /dev/null
++++ b/assets/images/og-cover.svg
+@@ -0,0 +1,11 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
++  <defs>
++    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
++      <stop offset="0" stop-color="#4257f5"/>
++      <stop offset="1" stop-color="#1ecf9f"/>
++    </linearGradient>
++  </defs>
++  <rect width="1200" height="630" fill="url(#g)"/>
++  <text x="80" y="300" font-size="72" font-family="Arial, sans-serif" fill="#fff">Mahabubnagar Hidden Gems</text>
++  <text x="80" y="370" font-size="36" font-family="Arial, sans-serif" fill="#e6eeff">Static guide · searchable · offline ready</text>
++</svg>
