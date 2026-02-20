@@ -1,0 +1,493 @@
+{
+  "district": "Mahabubnagar",
+  "state": "Telangana",
+  "updated_iso": "2026-02-20",
+  "source_policy": {
+    "primary": ["Mahabubnagar District Administration tourism pages", "Telangana Tourism destination pages"],
+    "images": ["Wikimedia Commons (preferred)"],
+    "verification_note": "Some sites may have only community references; those must be labeled and verified."
+  },
+  "places": [
+    {
+      "id": "pillalamarri-banyan",
+      "name": "Pillalamarri Banyan Tree",
+      "type": ["Nature", "Heritage"],
+      "summary": "A famed banyan tree site near Mahabubnagar town; official page describes it as ~700 years old with a large spread and on-site visitor facilities.",
+      "why_go": ["Iconic landmark", "Shaded picnic-like atmosphere", "Quick half-day visit"],
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Mahabubnagar (as per district site context)" },
+      "visit_tips": {
+        "best_time": "Dec–Feb is highlighted as best season for the region (general destination guidance).",
+        "duration": "1–2 hours (typical quick visit)",
+        "notes": ["Expect crowds on holidays; be mindful of animal facilities if present."]
+      },
+      "sources": [
+        { "label": "Mahabubnagar District - Pillala Marri Tree", "url": "https://mahabubnagar.telangana.gov.in/pillala-marri/" }
+      ],
+      "images": [
+        {
+          "title": "Pillalamarri Mahabubnagar",
+          "commons_page": "https://commons.wikimedia.org/wiki/File:Pillalamarri_Mahabubnagar.jpg",
+          "license": "See Wikimedia file page",
+          "attribution": "From Wikimedia Commons (check file page for author/license)"
+        }
+      ],
+      "tags": ["family", "weekend", "nature", "photography"]
+    },
+
+    {
+      "id": "koilkonda-fort",
+      "name": "Koilkonda Fort",
+      "type": ["History", "Fort", "Viewpoint"],
+      "summary": "Hilltop fort described by the district page as an erstwhile Qutb Shahi outpost; mentions multiple gates and an inscription dated 1550.",
+      "why_go": ["Trek + ruins", "Great views", "History nerd heaven"],
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Koilkonda" },
+      "visit_tips": { "duration": "2–4 hours", "notes": ["Carry water; uneven terrain; sun protection."] },
+      "sources": [
+        { "label": "Mahabubnagar District - Koilkonda Fort", "url": "https://mahabubnagar.telangana.gov.in/koilkonda-fort/" }
+      ],
+      "images": [
+        {
+          "title": "Koilkonda Fort (Mahbubnagar)",
+          "commons_page": "https://commons.wikimedia.org/wiki/File:Koilkonda_Fort(Mahbubnagar).jpg",
+          "license": "See Wikimedia file page",
+          "attribution": "From Wikimedia Commons (check file page for author/license)"
+        }
+      ],
+      "tags": ["trek", "ruins", "sunset", "photography"]
+    },
+
+    {
+      "id": "manyam-konda",
+      "name": "Manyam Konda (Sri Venkateshwara Temple)",
+      "type": ["Spiritual", "Cave Temple", "Hill"],
+      "summary": "Cave-located hill shrine; district page describes it as a major spiritual center near Mahabubnagar and notes an annual festival on Magha Purnima.",
+      "why_go": ["Pilgrimage", "Views + caves", "Quiet hill vibe"],
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Mahabubnagar (per district page)" },
+      "visit_tips": { "duration": "Half-day", "notes": ["Respect temple customs; watch steps/rocks."] },
+      "sources": [
+        { "label": "Mahabubnagar District - Manyam Konda", "url": "https://mahabubnagar.telangana.gov.in/manyam-konda/" },
+        { "label": "Telangana Tourism - Mahabubnagar destination", "url": "https://tourism.telangana.gov.in/destinations/mahabubnagar" }
+      ],
+      "images": [],
+      "image_needed": true,
+      "suggested_query_terms": ["Manyam Konda Mahabubnagar Wikimedia Commons", "Sri Venkateshwara Temple Manyam Konda photo"]
+    },
+
+    {
+      "id": "mayuri-haritha-vanam",
+      "name": "Mayuri Haritha Vanam (Eco Park)",
+      "type": ["Eco Park", "Recreation", "Nature"],
+      "summary": "Eco-tourism / urban green space initiative described by the district page; positioned near the Mahbubnagar–Jadcherla highway with hilly forested terrain.",
+      "why_go": ["Bright, modern hangout", "Green space", "Easy local getaway"],
+      "admin_area": { "district": "Mahabubnagar" },
+      "visit_tips": { "duration": "2–3 hours", "notes": ["Great for evening stroll content and quick reels."] },
+      "sources": [
+        { "label": "Mahabubnagar District - Mayuri Haritha Vanam", "url": "https://mahabubnagar.telangana.gov.in/mayuri-haritha-vanam/" },
+        { "label": "Mahabubnagar District - Tourist Places", "url": "https://mahabubnagar.telangana.gov.in/tourist-places/" }
+      ],
+      "images": [],
+      "image_needed": true,
+      "suggested_query_terms": ["Mayuri Haritha Vanam Mahabubnagar Wikimedia Commons", "Mayuri Eco Park Mahabubnagar photo"]
+    },
+
+    {
+      "id": "pedda-cheruvu",
+      "name": "Pedda Cheruvu (Big Lake)",
+      "type": ["Lake", "City Nature"],
+      "summary": "Large natural lake in Mahabubnagar town described by the district page, including bund-road access around the lake.",
+      "why_go": ["Sunset walks", "Local everyday-life vibe", "Simple scenic shots"],
+      "admin_area": { "district": "Mahabubnagar" },
+      "visit_tips": { "duration": "1–2 hours" },
+      "sources": [
+        { "label": "Mahabubnagar District - Pedda Cheruvu", "url": "https://mahabubnagar.telangana.gov.in/pedda-cheruvu/" }
+      ],
+      "images": [],
+      "image_needed": true,
+      "suggested_query_terms": ["Pedda Cheruvu Mahabubnagar Wikimedia Commons", "Peddacheruvu Mahabubnagar lake photo"]
+    },
+
+    {
+      "id": "krishna-bhima-sangam",
+      "name": "Sri Sangam of Krishna and Bhima Rivers",
+      "type": ["River Confluence", "Spiritual", "Heritage"],
+      "summary": "Confluence site described by the district page with religious importance and historical references.",
+      "why_go": ["Confluence landscape", "Pilgrimage significance", "Heritage storytelling"],
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Maganoor (as per district page)" },
+      "visit_tips": { "duration": "2–4 hours" },
+      "sources": [
+        { "label": "Mahabubnagar District - Sri Sangam", "url": "https://mahabubnagar.telangana.gov.in/sri-sangam-of-krishna-and-bheemarivers/" }
+      ],
+      "images": [],
+      "image_needed": true
+    },
+
+    {
+      "id": "mudmal-megaliths",
+      "name": "Megalithic Burials / Menhirs (Mudmal area)",
+      "type": ["Archaeology", "Prehistory", "Landscape"],
+      "summary": "District page describes a large megalithic burial landscape and menhir features in the Mudmal/Maganoor area.",
+      "why_go": ["Rare prehistoric site", "Science-y storytelling", "Offbeat exploration"],
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Maganoor" },
+      "visit_tips": { "duration": "Half-day", "notes": ["Go with daylight; be respectful—this is a burial landscape."] },
+      "sources": [
+        { "label": "Mahabubnagar District - Megalit Burials", "url": "https://mahabubnagar.telangana.gov.in/megalit-burials/" }
+      ],
+      "images": [],
+      "image_needed": true
+    },
+
+    {
+      "id": "gurdwara-manji-sahib-thimmareddipalle",
+      "name": "Gurdwara Majji/Manji Sahib (Thimma Reddi Palle, Maddur Mandal)",
+      "type": ["Spiritual", "Sikh Heritage"],
+      "summary": "Included per user request. Currently found as a community reference online; not located on official tourism pages or Wikimedia in this pass.",
+      "admin_area": { "district": "Mahabubnagar", "mandal": "Maddur" },
+      "verification_status": "community_reference_only",
+      "sources": [
+        { "label": "Community reference mentioning the gurdwara at Thimma Reddi Palle (Maddur Mandal)", "url": "https://www.sikhphilosophy.net/threads/forgotten-sikh-tribes-and-sikh-religious-places.54071/" }
+      ],
+      "images": [],
+      "image_needed": true,
+      "suggested_query_terms": ["Gurdwara Manji Sahib Thimma Reddi Palle Wikimedia", "Thimmareddipalle gurdwara photo"]
+    },
+
+    {
+{
+  "region": {
+    "name": "Mahabubnagar & Surrounding Hidden Gems",
+    "state": "Telangana",
+    "tagline": "History, forests, forts, dams, and sacred escapes — all in one bright, scroll-friendly bucket list."
+  },
+  "categories": [
+    {
+      "id": "iconic",
+      "title": "Iconic Landmarks",
+      "emoji": "🏛️",
+      "blurb": "Signature spots that define the region — big heritage, big vibes."
+    },
+    {
+      "id": "engineering",
+      "title": "Archaeology & Engineering Marvels",
+      "emoji": "🧭",
+      "blurb": "Ancient science, irrigation ingenuity, and places that feel like time-machines."
+    },
+    {
+      "id": "forest",
+      "title": "Magical Forest & Water Escapes",
+      "emoji": "🌿",
+      "blurb": "Nallamala energy: waterfalls, viewpoints, treks, and deep-green calm."
+    },
+    {
+      "id": "spiritual",
+      "title": "Secluded Spiritual & Hilltop Sites",
+      "emoji": "🕯️",
+      "blurb": "Caves, dargahs, hilltop temples, and ruins with silence baked in."
+    }
+  ],
+  "places": [
+    {
+      "id": "pillalamarri-banyan-tree",
+      "name": "Pillalamarri Banyan Tree",
+      "categoryId": "iconic",
+      "locationHint": "Mahabubnagar area",
+      "rating": 4.1,
+      "highlights": [
+        "800-year-old banyan spreading over multiple acres",
+        "Prop-root maze + shaded picnic vibe",
+        "Often includes zoo/aquarium/museum on site (maintenance may vary)"
+      ],
+      "visitorNote": "Some reviews mention poor maintenance in animal areas—visit for the tree + heritage calm, keep expectations realistic.",
+      "image": {
+        "url": "https://www.trodly.com/activity-3259-koilkonda-fort-trek-from-hyderabad",
+        "credit": "Trodly (page includes photo)"
+      }
+    },
+    {
+      "id": "jogulamba-temple-alampur",
+      "name": "Shri Jogulamba Ammavari Temple (Alampur) — 5th Shakti Peetham",
+      "categoryId": "iconic",
+      "locationHint": "Alampur, Jogulamba Gadwal district",
+      "rating": 4.7,
+      "highlights": [
+        "Major Shakti Peetha pilgrimage site",
+        "Historic temple town + Navabrahma temple cluster nearby",
+        "Rivers confluence setting is part of the aura"
+      ],
+      "image": {
+        "url": "https://indiantempleslist.blogspot.com/2014/07/sri-jogulamba-devi-temple-at-alampur-kurnool-india.html",
+        "credit": "IndianTemplesList (page includes photos)"
+      }
+    },
+    {
+      "id": "gadwal-fort",
+      "name": "Gadwal Fort",
+      "categoryId": "iconic",
+      "locationHint": "Gadwal region",
+      "rating": 4.2,
+      "highlights": [
+        "17th-century fort complex",
+        "Chennakesava temple inside fort precincts",
+        "Gadwal saree/weaving culture nearby"
+      ],
+      "image": {
+        "url": "https://seawatersports.com/places/telangana/gadwal-fort",
+        "credit": "SeaWaterSports (page includes photo)"
+      }
+    },
+    {
+      "id": "manyam-konda-temple",
+      "name": "Manyam Konda Temple",
+      "categoryId": "iconic",
+      "locationHint": "Mahabubnagar district",
+      "rating": 4.6,
+      "highlights": [
+        "Cave shrine on a hill",
+        "Panoramic views; peaceful climb",
+        "Often called a high-value pilgrimage viewpoint spot"
+      ],
+      "image": {
+        "url": "https://www.trawell.in/telangana/mahabubnagar/koilkonda-fort-and-koilsagar-dam",
+        "credit": "Trawell (site has Mahabubnagar imagery; swap with direct Manyam Konda photo if you find a better source)"
+      }
+    },
+    {
+      "id": "koilsagar-dam",
+      "name": "Koilsagar Dam",
+      "categoryId": "iconic",
+      "locationHint": "Near Koilkonda",
+      "rating": 4.4,
+      "highlights": [
+        "Scenic reservoir between hills",
+        "Great at sunrise/sunset; monsoon-friendly visuals",
+        "Pairs well with Koilkonda Fort in one trip"
+      ],
+      "image": {
+        "url": "https://www.tripadvisor.co.uk/Attraction_Review-g2531468-d10758505-Reviews-Koilsagar_Dam-Mahbubnagar_Mahbubnagar_District_Telangana.html",
+        "credit": "Tripadvisor (page includes photo)"
+      }
+    },
+    {
+      "id": "jurala-dam",
+      "name": "Jurala Dam (Priyadarshini Project)",
+      "categoryId": "engineering",
+      "locationHint": "Across Krishna River, Gadwal side",
+      "rating": 4.3,
+      "highlights": [
+        "Major hydro + irrigation project",
+        "Best visuals when gates are open / monsoon inflows",
+        "Big “engineering scale” content for reels + website hero images"
+      ],
+      "image": {
+        "url": "https://www.trawell.in/telangana/mahabubnagar/jurala-dam",
+        "credit": "Trawell (page includes photo)"
+      }
+    },
+    {
+      "id": "mudumal-menhirs",
+      "name": "Mudumal Megalithic Menhirs (Mudumal Niluvu Raallu)",
+      "categoryId": "engineering",
+      "locationHint": "Narayanpet/Mudumal region",
+      "rating": 4.8,
+      "highlights": [
+        "Megalithic standing stones; archaeology + archaeoastronomy angle",
+        "Visually striking landscape for a “prehistoric Telangana” section"
+      ],
+      "image": {
+        "url": "https://indianexpress.com/article/cities/hyderabad/heritage-enthusiasts-telangana-seek-unesco-tag-for-menhirs-at-mudumal-7574869/",
+        "credit": "Indian Express (article includes photo)"
+      }
+    },
+    {
+      "id": "sarala-sagar",
+      "name": "Sarala Sagar Project",
+      "categoryId": "engineering",
+      "locationHint": "Wanaparthy–Gadwal belt",
+      "rating": 4.5,
+      "highlights": [
+        "Known for siphon/automatic gate technology (as popularly reported)",
+        "A rare ‘engineering story’ destination"
+      ],
+      "image": {
+        "url": "https://www.thehansindia.com/telangana/wanaparthy-sarala-sagars-saifan-automatic-gates-open-after-11-years-640067",
+        "credit": "The Hans India (article includes photo)"
+      }
+    },
+    {
+      "id": "ancient-jain-temple-alvanpalli",
+      "name": "Ancient Jain Temple (Alvanpalli) — ruins / brick & terracotta style",
+      "categoryId": "engineering",
+      "locationHint": "Alvanpalli area (verify exact map pin before publishing)",
+      "rating": 4.6,
+      "highlights": [
+        "Reported as rare early structure style in the region",
+        "Often described as ruins — best for heritage explorers"
+      ],
+      "visitorNote": "Image sources online are inconsistent; treat as ‘needs verification’ and replace with your own photo or a confirmed listing image.",
+      "image": {
+        "url": "https://www.canva.com/photos/MACDQzWASZk-ancient-jain-temple/",
+        "credit": "Canva Photos (generic ‘ancient Jain temple’ placeholder — replace when you have a verified Alvanpalli-specific image)"
+      }
+    },
+    {
+      "id": "saleshwaram",
+      "name": "Saleshwaram Lingamayya Swamy Temple (deep forest cave shrine)",
+      "categoryId": "forest",
+      "locationHint": "Amrabad / Nallamala forest region",
+      "rating": 4.7,
+      "highlights": [
+        "Seasonal access / festival window vibe",
+        "Trek-through-forest pilgrimage feel",
+        "Water + cave-temple drama for storytelling"
+      ],
+      "image": {
+        "url": "https://poetryinpicture.wordpress.com/2021/12/31/visit-2nd-largest-tiger-reserve-of-india-amrabad/",
+        "credit": "Poetry in Pictures (blog; contains Amrabad/Farahabad visuals—swap with Saleshwaram-specific photo later if needed)"
+      }
+    },
+    {
+      "id": "mallela-theertham",
+      "name": "Mallela Theertham Waterfall",
+      "categoryId": "forest",
+      "locationHint": "Nallamala forest (Srisailam route)",
+      "rating": 4.4,
+      "highlights": [
+        "Big monsoon/post-monsoon payoff",
+        "Forest descent stairs + canyon-like setting",
+        "Great for “weekend wild escape” section"
+      ],
+      "image": {
+        "url": "https://www.tripoto.com/srisailam/trips/mallela-theertham-waterfalls-a-day-trip-from-hyderabad-5c5ab6c0ad8f4",
+        "credit": "Tripoto (page includes photo)"
+      }
+    },
+    {
+      "id": "farahabad-viewpoint",
+      "name": "Farahabad View Point (Amrabad Tiger Reserve route)",
+      "categoryId": "forest",
+      "locationHint": "Amrabad side",
+      "rating": 4.5,
+      "highlights": [
+        "Wide forest-canopy views",
+        "Often paired with safari/forest drive"
+      ],
+      "image": {
+        "url": "https://poetryinpicture.wordpress.com/2021/12/31/visit-2nd-largest-tiger-reserve-of-india-amrabad/",
+        "credit": "Poetry in Pictures (blog includes Farahabad viewpoint photo)"
+      }
+    },
+    {
+      "id": "somasila",
+      "name": "Somasila (Krishna backwaters vibe)",
+      "categoryId": "forest",
+      "locationHint": "Somasila region",
+      "rating": 4.6,
+      "highlights": [
+        "Sunset + boating potential",
+        "Quiet riverside atmosphere"
+      ],
+      "image": {
+        "url": "https://www.tourism.telangana.gov.in/all-destinations",
+        "credit": "Telangana Tourism (use official galleries; pick Somasila-specific image from their media if available)"
+      }
+    },
+    {
+      "id": "loddi-mallanna-gundam",
+      "name": "Loddi Mallanna Gundam (seasonal pool + trek)",
+      "categoryId": "forest",
+      "locationHint": "Amrabad Tiger Reserve region",
+      "rating": 4.6,
+      "highlights": [
+        "Tougher forest trek; seasonal opening vibe",
+        "Sacred pool (gundam) + nature immersion"
+      ],
+      "image": {
+        "url": "https://wikimapia.org/22136953/uma-maheshwaram",
+        "credit": "Wikimapia (region-related image; replace with Loddi-specific confirmed photo if possible)"
+      }
+    },
+    {
+      "id": "ali-chaman-dargah",
+      "name": "Ali Chaman Dargah",
+      "categoryId": "spiritual",
+      "locationHint": "Mahabubnagar surroundings",
+      "rating": 4.6,
+      "highlights": [
+        "Quiet spiritual site in rocky-green landscape",
+        "Good for “slow travel / silence” section"
+      ],
+      "image": {
+        "url": "https://www.tourism.telangana.gov.in/all-destinations",
+        "credit": "Telangana Tourism (use official gallery image if you can find a Dargah-specific photo)"
+      }
+    },
+    {
+      "id": "khilla-ghanpur-fort",
+      "name": "Khilla Ghanpur Fort",
+      "categoryId": "spiritual",
+      "locationHint": "Ghanpur Lake side",
+      "rating": 4.4,
+      "highlights": [
+        "Hill trek + ruins + ponds on top",
+        "360° views — very reel-friendly"
+      ],
+      "image": {
+        "url": "https://www.tourism.telangana.gov.in/all-destinations",
+        "credit": "Telangana Tourism (best to swap in a direct Khilla Ghanpur photo when you find one)"
+      }
+    },
+    {
+      "id": "pangal-fort",
+      "name": "Pangal Fort",
+      "categoryId": "spiritual",
+      "locationHint": "Wanaparthy region",
+      "rating": 3.4,
+      "highlights": [
+        "Underrated ruins + forest reclaiming vibe",
+        "Great for an ‘underrated gems’ section"
+      ],
+      "visitorNote": "Add your own photos or a confirmed listing photo — public images are scattered.",
+      "image": {
+        "url": "https://www.tourism.telangana.gov.in/all-destinations",
+        "credit": "Telangana Tourism (placeholder link — replace with Pangal-specific photo source)"
+      }
+    },
+    {
+      "id": "uma-maheswaram-temple",
+      "name": "Uma Maheswaram Temple (Nallamala gateway shrine)",
+      "categoryId": "spiritual",
+      "locationHint": "Achampet / Nallamala forests",
+      "rating": 4.7,
+      "highlights": [
+        "Forest + hill setting with sacred spring vibe",
+        "Pilgrimage + nature in one place"
+      ],
+      "image": {
+        "url": "https://holaciti.com/travel-stories/uma-maheswaram-temple-history-timings-location-festivals-travel-guide",
+        "credit": "Holaciti (page includes images)"
+      }
+    },
+    {
+      "id": "sangameshwaram",
+      "name": "Sri Sangameshwaram Shiva Temple (seasonal ‘appearing’ temple vibe)",
+      "categoryId": "spiritual",
+      "locationHint": "River/dam backwaters area",
+      "rating": 4.6,
+      "highlights": [
+        "Boat ride experience in some seasons",
+        "Temple + water + mystery aesthetic"
+      ],
+      "image": {
+        "url": "https://www.tourism.telangana.gov.in/all-destinations",
+        "credit": "Telangana Tourism (swap in a direct Sangameshwaram photo if available)"
+      }
+    }
+  ],
+  "siteCopy": {
+    "heroTitle": "Mahabubnagar Hidden Gems Bucket List",
+    "heroSubtitle": "Scroll-friendly guide to forts, forest temples, prehistoric stones, dams, and sunset water escapes.",
+    "ctaPrimary": "Explore Places",
+    "ctaSecondary": "View Map (optional)"
+  }
+}
+
+  
