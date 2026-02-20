@@ -1,0 +1,15 @@
+{
+  "name": "Mahabubnagar Hidden Gems",
+  "short_name": "MH Gems",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8ff",
+  "theme_color": "#4257f5",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
